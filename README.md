@@ -1,6 +1,6 @@
 # pkg-placeholder
 
-> this is a fork repo from @antfu/start-ts
+> this is a fork repo from @antfu/starter-ts
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
